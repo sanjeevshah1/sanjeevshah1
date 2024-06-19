@@ -29,6 +29,11 @@
 </div>
 
 <br />
+### 🏆 LeetCode Stats
+
+<div>
+[![Leetcode Stats](https://leetcard.jacoblin.cool/sahsanjeev42)](https://leetcode.com/sahsanjeev42)
+</div>
 
 ---
 
