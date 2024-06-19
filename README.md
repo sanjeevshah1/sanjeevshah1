@@ -1,16 +1,15 @@
-- 👋 Hi, I’m @sanjeevshah1
-- 👀 I’m interested in web development, data structures, and algorithms.
-- 🌱 I’m currently learning advanced JavaScript, React.js, and backend development with Node.js.
-- 💞️ I’m looking to collaborate on open-source projects and innovative web applications.
-- 📫 How to reach me: You can email me at sahsanjeev42@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy solving LeetCode problems and have solved over 200 challenges!
+- 👋 Hi, I’m Sanjeev Shah,
+- 👀 I’m interested in web development, data structures, and algorithms,
+- 🌱 I’m currently learning advanced JavaScript, React.js, and backend development with Node.js,
+- 💞️ I’m looking to collaborate on open-source projects and innovative web applications,
+- 📫 How to reach me: You can email me at sahsanjeev42@gmail.com,
+- ⚡ Fun fact: I enjoy solving LeetCode problems and have solved over 150 challenges!
 <div align="center">
 <h1>Main Tech Stack</h1>
 
 <div>
 
- <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,html,css,nodejs,gql,postgres&perline=5" alt="Tech Stack" /> 
+ <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,nodejs,git,github,mysql,c&perline=5" alt="Tech Stack" /> 
  
 </div>
   
@@ -29,12 +28,10 @@
 </div>
 
 <br />
-### 🏆 LeetCode Stats
+🏆 LeetCode Stats</span>
 
-<div>
-[![Leetcode Stats](https://leetcard.jacoblin.cool/sahsanjeev42)](https://leetcode.com/sahsanjeev42)
-</div>
-
+![](https://leetcard.jacoblin.cool/sahsanjeev42?ext=activity)
+<br />
 ---
 
 <div align="center">
