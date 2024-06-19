@@ -9,7 +9,7 @@
 
 <div>
 
- <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,nodejs,git,github,mysql,c&perline=5" alt="Tech Stack" /> 
+ <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,nodejs,git,github,mysql,cpp&perline=5" alt="Tech Stack" /> 
  
 </div>
   
