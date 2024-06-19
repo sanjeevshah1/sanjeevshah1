@@ -31,12 +31,13 @@
   <h3>Contact Me</h3>
   
   <div >
-    <a href="https://www.linkedin.com/in/sanjeev-sah-b354b9210/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>&nbsp;&nbsp;
-    <a href="https://www.facebook.com/Sanjeev073.sah" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-    </a>
+
+<a href="https://www.linkedin.com/in/sanjeev-sah-b354b9210/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/Sanjeev073.sah" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+</a>
   </div> 
    
 </div>
