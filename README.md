@@ -26,6 +26,9 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjeevshah1&show_icons=true&theme=tokyonight" />
     </a>
 </div>
+<div>
+   [![GitHub Streak](https://streak-stats.demolab.com?user=sanjeevvshah1&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
+</div>
 
 <br />
 🏆 LeetCode Stats</span>
