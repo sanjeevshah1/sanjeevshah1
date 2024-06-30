@@ -26,7 +26,7 @@
   </div>
   <div>
     <a href="https://git.io/streak-stats">
-      <img align="center" src="https://streak-stats.demolab.com?user=sanjeevvshah1&theme=tokyonight-duo&hide_border=true" />
+      <img align="center" src="https://streak-stats.demolab.com?user=sanjeevshah1&theme=tokyonight-duo&hide_border=true" />
     </a>
   </div>
   <br />
