@@ -9,7 +9,7 @@
 <div align="center">
   <h1>Main Tech Stack</h1>
   <div>
-    <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,nodejs,git,github,mysql,cpp&perline=5" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,nodejs,git,github,mysql,cpp,regex,linux,netlify,firebase,vscode&perline=5" alt="Tech Stack" />
   </div>
   <br />
   <div>
