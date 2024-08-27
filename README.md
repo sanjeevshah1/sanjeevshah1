@@ -1,7 +1,7 @@
 # Hi, I’m Sanjeev Shah
 
 - 👀 I’m interested in web development, data structures, and algorithms.
-- 🌱 I’m currently learning advanced JavaScript, React.js, and backend development with Node.js.
+- 🌱 I’m currently learning advanced Typescript, React.js, and backend development with Node.js.
 - 💞️ I’m looking to collaborate on open-source projects and innovative web applications.
 - 📫 How to reach me: You can email me at sahsanjeev42@gmail.com.
 - ⚡ Fun fact: I enjoy solving LeetCode problems and have solved over 150 challenges!
